@@ -1,7 +1,7 @@
 # Arduino-project01
-## 수동과 자동변경이 가능한 RC카
-### 기능 설명
-- 앱을 이용한 수동, 자동변경 가능
+## Control car capable of manual and automatic
+### skill
+- Use the app
 - 자동일 때 초음파센서를 이용, 벽에 부딪히지 않고 랜덤으로 방향정함
 - 수동일 때 조작키를 이용해 조종
 
